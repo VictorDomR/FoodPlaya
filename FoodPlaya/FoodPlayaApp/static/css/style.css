@@ -9,7 +9,7 @@ body {
 }
 
 .bg-gray {
-  background-color: #88A1B2
+  background-color: #88A1B2;
 }
 
 .text-white {
@@ -23,8 +23,8 @@ body {
 
 .btn-pink:hover,
 .btn-pink:focus{
-  color: white
-  background-color: #DA4F5D
+  color: white;
+  background-color: #DA4F5D;
 }
 
 /* SIDE BAR */
@@ -57,13 +57,13 @@ body {
 /* SIDE BAR - LIST */
 .sidebar .list-group {
   padding: 0;
-  background-color: #3F3F63
+  background-color: #3F3F63;
 }
 
 .sidebar .list-group > span {
   color: #b6b4c1;
   display: block;
-  margin-top: 20px
+  margin-top: 20px;
   padding: 20px 30px;
   font-size: 16px;
   font-weight: 300;
@@ -71,7 +71,7 @@ body {
 
 .sidebar .list-group .list-group-item,
 .sidebar .list-group .list-group-item:focus {
-  background-color: #3F3F63
+  background-color: #3F3F63;
   color: #b6b4c1;
   border: 0;
   padding-left: 60px;
@@ -114,11 +114,11 @@ body {
 }
 
 .table > thead > tr > th,
-.table > thead > tr > td,{
+.table > thead > tr > td {
   vertical-align: middle;
 }
 
 .table,
-.table > thead > tr > th,{
-  border-color: #88A1B2
+.table > thead > tr > th {
+  border-color: #88A1B2;
 }
